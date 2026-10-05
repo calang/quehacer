@@ -2,27 +2,29 @@
 
 Guía rápida para vecinos del cantón de Curridabat (San José, Costa Rica). Datos verificados el 2026-10-04; confirme los números periódicamente.
 
-**Al llamar al 9-1-1** (gratuito, 24/7; también por la app *Emergencias 9-1-1 CR*): mantenga la calma, dé la dirección exacta con puntos de referencia, describa qué ocurre, cuántas personas están afectadas y si hay niños, adultos mayores o personas con discapacidad. No cuelgue hasta que se lo indiquen. El uso indebido del 9-1-1 está sancionado.
+**Al llamar al 9-1-1** (gratuito, 24/7; también por la app *Emergencias 9-1-1 CR*): mantenga la calma, dé la dirección exacta (provincia, cantón, distrito, barrio y señas), describa qué ocurre, cuántas personas están afectadas y si hay niños, adultos mayores o personas con discapacidad. Responda las preguntas del operador y siga sus indicaciones; la llamada dura al menos 20 segundos. No cuelgue hasta que se lo indiquen. El uso indebido del 9-1-1 está sancionado.
 
-**Regla general:** no confronte ni persiga a nadie. Su seguridad es lo primero. Una llamada al 9-1-1 o a la Fuerza Pública **no reemplaza la denuncia formal**: la denuncia se presenta ante el OIJ o la Fiscalía.
+**No llame al 9-1-1** por extravío de documentos o del celular, para consultar teléfonos de instituciones, reportar congestión vial o problemas en servicios públicos, ni para pedir asistencia en carretera.
+
+**Regla general:** no confronte ni persiga a nadie. Su seguridad es lo primero. Una llamada al 9-1-1 o a la Fuerza Pública **no reemplaza la denuncia formal**: la denuncia se presenta ante el OIJ o la Fiscalía (Ministerio Público), de preferencia en la más cercana al lugar del hecho o a su domicilio. Cualquier persona puede denunciar, sin importar su edad o nacionalidad, y en el OIJ no se pide ningún requisito. La Oficina de Recepción de Denuncias (ORD) del OIJ en San José atiende 24 horas, todos los días.
 
 | Situación | Pasos a seguir |
 |---|---|
 | **Actividades sospechosas** | |
-| Persona desconocida merodeando, observando casas o vehículos, probando puertas o portones | 1. No la confronte. Obsérvela desde un lugar seguro.<br>2. Llame al **9-1-1** o a la **Policía Municipal de Curridabat (2272-0724)**.<br>3. Describa sexo, edad aproximada, ropa, rasgos y hacia dónde se dirige.<br>4. Avise al grupo o comité de seguridad comunitaria del barrio. |
-| Vehículo desconocido estacionado mucho tiempo o que pasa repetidamente | 1. Anote placa, marca, modelo, color y número de ocupantes, sin acercarse.<br>2. Repórtelo al **9-1-1** o a la Policía Municipal (2272-0724).<br>3. Si sospecha que es robado o que se usa para delinquir, dé la información también a la línea confidencial del **OIJ: 800-8000-645** (WhatsApp 8800-0645). |
+| Persona desconocida merodeando, observando casas o vehículos, probando puertas o portones | 1. No la confronte. Obsérvela desde un lugar seguro.<br>2. Llame al **9-1-1**.<br>3. Describa sexo, edad aproximada, ropa, rasgos y hacia dónde se dirige.<br>4. Avise al grupo o comité de seguridad comunitaria del barrio. |
+| Vehículo desconocido estacionado mucho tiempo o que pasa repetidamente | 1. Anote placa, marca, modelo, color y número de ocupantes, sin acercarse.<br>2. Repórtelo al **9-1-1**.<br>3. Si sospecha que es robado o que se usa para delinquir, dé la información también a la línea confidencial del **OIJ: 800-8000-645** (800-8000-OIJ; WhatsApp 8800-0645). |
 | Robo o intento de ingreso **en curso** (vivienda, local o vehículo) | 1. Póngase a salvo. No intervenga.<br>2. Llame de inmediato al **9-1-1**.<br>3. Si puede hacerlo sin riesgo, observe rasgos, vehículo y ruta de huida.<br>4. Después, presente la denuncia formal ante el OIJ. |
 | Encuentra su vivienda o vehículo robado (el hecho ya ocurrió) | 1. No toque ni mueva nada hasta que llegue el OIJ, para preservar huellas y evidencia.<br>2. Llame al **9-1-1** para que envíen a la policía.<br>3. Presente la denuncia en la delegación del **OIJ** más cercana con su cédula, o en línea con firma digital (*pjenlineacr.poder-judicial.go.cr/AppDenuncia*).<br>4. Haga una lista de lo robado con números de serie, fotos o facturas. |
-| Venta o consumo de drogas en la vía pública o en una vivienda (búnker) | 1. No intervenga ni lo comente públicamente.<br>2. Si ocurre en ese momento, llame al **9-1-1**.<br>3. Para actividad recurrente, informe de forma anónima al **OIJ: 800-8000-645**, WhatsApp 8800-0645 o cicoOIJ@poder-judicial.go.cr. Dé días, horarios, personas y vehículos. |
+| Venta o consumo de drogas en la vía pública o en una vivienda (búnker) | 1. No intervenga ni lo comente públicamente.<br>2. Si ocurre en ese momento, llame al **9-1-1**.<br>3. Para actividad recurrente (venta, almacenamiento o distribución), llame a la **Policía de Control de Drogas: 1176** o use el formulario en línea en *seguridadpublica.go.cr/tramites_servicios/denuncias.aspx*.<br>4. También puede informar de forma confidencial al **OIJ: 800-8000-645**, WhatsApp 8800-0645 o cicoOIJ@poder-judicial.go.cr. Dé días, horarios, personas y vehículos. |
 | Persona armada, amenazas o disparos | 1. Resguárdese lejos de puertas y ventanas.<br>2. Llame al **9-1-1** cuando esté a salvo.<br>3. No salga a ver qué pasó hasta que llegue la policía. |
 | **Comportamientos inusuales de vecinos o visitantes** | |
 | Gritos, golpes o señales de violencia doméstica o contra una mujer | 1. Llame al **9-1-1** (atención 24/7 con enlace al INAMU).<br>2. Dé la dirección exacta y lo que escucha u observa. No intervenga físicamente.<br>3. Para orientación posterior: app **Ela** del INAMU (24/7) o WhatsApp INAMU **8321-8678**. |
 | Niño, niña o adolescente en riesgo, abandonado o maltratado | 1. Si hay peligro inmediato, llame al **9-1-1** (enlace con el PANI).<br>2. Si no es urgente, llame a la **Línea 1147 del PANI** (gratuita, confidencial, L-D de 7 a.m. a 10 p.m.) o escriba al WhatsApp 8989-1147.<br>3. También puede presentar la denuncia en línea en *pani.go.cr*. |
 | Persona adulta mayor abandonada, maltratada o explotada | 1. Si hay peligro inmediato, llame al **9-1-1**.<br>2. Para orientación, llame a la **Línea Dorada del CONAPAM: 1165** (24/7).<br>3. Para denunciar un delito, llame al **OIJ: 800-8000-645**. |
-| Escándalo o ruido excesivo, sobre todo de noche | 1. Si está ocurriendo y altera el orden público, llame al **9-1-1** o a la Policía Municipal (2272-0724).<br>2. Si es recurrente (local comercial, fiestas frecuentes, maquinaria), presente una denuncia sanitaria ante el **Ministerio de Salud**: Área Rectora de su zona, tel./WhatsApp **4003-5000** (L-V de 8 a.m. a 4 p.m.) o denuncias.minsa@misalud.go.cr.<br>3. Indique las fechas y horas aproximadas y aporte grabaciones si las tiene. |
+| Escándalo o ruido excesivo, sobre todo de noche | 1. Si está ocurriendo y altera el orden público, llame al **9-1-1**.<br>2. Si es recurrente (local comercial, fiestas frecuentes, maquinaria), presente una denuncia sanitaria ante el **Ministerio de Salud**: Área Rectora de su zona, tel./WhatsApp **4003-5000** (L-V de 8 a.m. a 4 p.m.) o denuncias.minsa@misalud.go.cr.<br>3. Indique las fechas y horas aproximadas y aporte grabaciones si las tiene. |
 | Persona desorientada, perdida o en aparente crisis en la vía pública | 1. Si hay riesgo para su vida o la de terceros, llame al **9-1-1**.<br>2. Manténgase a una distancia prudente y dé su descripción y ubicación. |
 | **Vandalismo y daños a la propiedad** | |
-| Vandalismo **en curso** (grafiti, daños a vehículos, casas o mobiliario público) | 1. No confronte a los responsables.<br>2. Llame al **9-1-1** o a la Policía Municipal (2272-0724).<br>3. Si puede hacerlo sin riesgo, tome fotos o video y anote descripciones. |
+| Vandalismo **en curso** (grafiti, daños a vehículos, casas o mobiliario público) | 1. No confronte a los responsables.<br>2. Llame al **9-1-1**.<br>3. Si puede hacerlo sin riesgo, tome fotos o video y anote descripciones. |
 | Daños ya ocurridos a propiedad privada (vehículo, portón, tapia) | 1. Fotografíe los daños antes de repararlos.<br>2. Reúna videos de cámaras propias o de vecinos.<br>3. Presente la denuncia ante el **OIJ** (en persona o en línea).<br>4. Si tiene póliza, avise a su aseguradora con el número de denuncia. |
 | Daños a bienes públicos (parques, aceras, señales, alcantarillas) | 1. Repórtelo a la **Municipalidad de Curridabat (2216-5200**, L-V de 7:30 a.m. a 4:30 p.m.).<br>2. Si deja un peligro inmediato (por ejemplo, una alcantarilla sin tapa), señalice el lugar si puede y llame al **9-1-1**. |
 | Robo o daño de cables eléctricos, postes o alumbrado público | 1. No toque cables caídos.<br>2. Si el robo está ocurriendo, llame al **9-1-1**.<br>3. Reporte la avería a la **CNFL: 1026** (24/7), WhatsApp 8319-5273 o la app de la CNFL. |
@@ -41,17 +43,19 @@ Guía rápida para vecinos del cantón de Curridabat (San José, Costa Rica). Da
 | Sismo | 1. **Agáchese, cúbrase y sujétese** lejos de ventanas y objetos que puedan caer.<br>2. No use ascensores. Evacúe cuando termine el movimiento si la estructura está dañada.<br>3. Revise si hay fugas de gas, cables dañados o heridos. Si los hay, llame al **9-1-1**.<br>4. Use el teléfono solo para emergencias y siga la información oficial de la **CNE**. Tenga un kit de emergencia listo. |
 | **Otras situaciones** | |
 | Maltrato o abandono de un animal | 1. Documente con fotos, video y testigos.<br>2. Presente la denuncia ante el **SENASA** con el formulario en línea en *senasa.go.cr*. Para orientación: 2587-1600 o info@senasa.go.cr (L-V de 8 a.m. a 4 p.m.).<br>3. Si hay crueldad grave en curso, llame al **9-1-1** o al **OIJ (800-8000-645)**. |
+| Información sobre delitos ya cometidos (robos, homicidios, corrupción, lavado de dinero), personas requeridas, prófugas o desaparecidas | 1. Informe de forma confidencial al **Centro de Información Confidencial (CICO) del OIJ: 800-8000-645** (gratuito), WhatsApp 8800-0645 o cicoOIJ@poder-judicial.go.cr.<br>2. Cualquier persona puede reportar, sin importar su edad o nacionalidad.<br>3. Si es víctima o testigo y quiere iniciar un proceso, presente además la denuncia formal ante el OIJ o la Fiscalía. |
 | Botadero clandestino, basura en la vía pública o lote sucio que genera plagas | 1. Fotografíe el problema y, si es posible, a quien bota la basura y la placa del vehículo.<br>2. Repórtelo a la **Municipalidad de Curridabat (2216-5200)**.<br>3. Si afecta la salud pública (plagas, malos olores, aguas residuales), presente una denuncia sanitaria ante el **Ministerio de Salud** (4003-5000 o la app *Denuncia Salud*). |
 
 ## Fuentes consultadas (2026-10-04)
 
+- Red de Seguridad Distrital de Curridabat y Fuerza Pública, infografía *Información de seguridad y atención ciudadana*, en `docs/archive/llamadas_de_emergencia_CyP_Curri.jpeg`: uso del 9-1-1, CICO del OIJ, denuncias y Policía de Control de Drogas (1176).
 - Sistema de Emergencias 9-1-1, Ley 7566: <https://www.seguridadpublica.go.cr/estructura/viceministroCPE-UC/seguridad_privada/documentos/comunicados/2022/ley_7566_creacion_sistema_emergencias_911.pdf>
 - App 9-1-1 CR: <https://www.nacion.com/el-pais/como-descargar-y-usar-la-app-del-911-en-costa-rica/BD5HEZDW3ZBT7B5K45IUYZ7EOU/story/>
 - OIJ, línea confidencial: <https://sitiooij.poder-judicial.go.cr/index.php/ayuda/queremos-estar-en-contacto> · <https://www.teletica.com/sucesos/teme-denunciar-asi-puede-reportar-un-delito-ante-el-oij-de-forma-anonima_412438>
 - Poder Judicial, denuncia por robo de vivienda: <https://servicios.poder-judicial.go.cr/index.php/servicio?service=35>
 - OIJ, cómo hacer una denuncia: <https://sitiooij.poder-judicial.go.cr/index.php/45-preguntas-frecuentes/3108-como-se-hace-una-denuncia-en-el-oij> · Denuncia en línea: <https://pjenlineacr.poder-judicial.go.cr/AppDenuncia>
 - Ministerio de Seguridad Pública, programas preventivos: <https://www.seguridadpublica.go.cr/tramites_servicios/dppp/programas_preventivos.aspx>
-- Municipalidad de Curridabat y Policía Municipal (directorio de terceros, no se encontró en el sitio oficial): <https://www.munis.cr/municipalidad-de-curridabat>
+- Municipalidad de Curridabat (directorio de terceros, no se encontró en el sitio oficial): <https://www.munis.cr/municipalidad-de-curridabat>
 - Ministerio de Salud, denuncias sanitarias: <https://www.ministeriodesalud.go.cr/index.php/denuncias/denuncias-sanitarias> · Reglamento de ruido 2024: <https://www.ministeriodesalud.go.cr/index.php/prensa/61-noticias-2024/1908-salud-publico-reglamento-para-el-control-del-ruido-e-inicia-capacitaciones-con-los-nuevos-equipos-de-medicion>
 - INAMU, servicios y app Ela: <https://www.inamu.go.cr/en/-/noticias-servicio-9-1-1-inamu-funciona-horario-24-7> · <https://delfino.cr/2025/05/inamu-moderniza-sus-servicios-con-ela-una-aplicacion-movil-de-apoyo-e-informacion-para-mujeres>
 - PANI, Línea 1147: <https://pani.go.cr/linea-gratuita-1147-del-pani-al-servicio-de-los-ninos-ninas-y-adolescentes/>
@@ -64,14 +68,14 @@ Guía rápida para vecinos del cantón de Curridabat (San José, Costa Rica). Da
 - CNE, sismos y kit de emergencia: <https://www.telediario.cr/nacional/temblores-costa-rica-que-debe-kit-emergencia>
 
 ## Conviene revisar estos puntos antes de difundir el documento
-- Policía Municipal de Curridabat (2272-0724): el número solo aparece en un directorio de terceros (munis.cr). En el sitio oficial de la Municipalidad no encontré contactos
-  y la página de Fuerza Pública daba error 404. Lo confirmaría llamando a la Municipalidad (2216-5200).
+- Falta un contacto policial local no urgente: al eliminar la Policía Municipal (ya no existe), los casos de persona o vehículo sospechoso, ruido y vandalismo en curso
+  quedan solo con el 9-1-1. Convendría añadir el teléfono de la delegación de Fuerza Pública de Curridabat, que no encontré (su página daba error 404).
+- Municipalidad de Curridabat (2216-5200): el número solo aparece en un directorio de terceros (munis.cr); en el sitio oficial no encontré contactos. Conviene confirmarlo.
 - La llamada al 9-1-1 no es una denuncia formal: la denuncia se presenta ante el OIJ o la Fiscalía. Lo puse como regla general porque la guía del Poder Judicial envía a las
-  víctimas a esas oficinas. La página del OIJ que lo trataba directamente ya no existe.       
-- Fuentes de prensa: el número de WhatsApp del OIJ, los pasos ante un choque sin heridos (Ley 9078 reformada) y los datos de SENASA salen de medios nacionales, no de páginas institucionales.
+  víctimas a esas oficinas, y la infografía de la Red de Seguridad Distrital también remite las denuncias al Ministerio Público y al OIJ. La página del OIJ que lo trataba directamente ya no existe.
+- Fuentes de prensa: los pasos ante un choque sin heridos (Ley 9078 reformada) y los datos de SENASA salen de medios nacionales, no de páginas institucionales.
 - Comités de seguridad comunitaria: los menciono de forma genérica porque no encontré datos de los de Curridabat. Si el barrio tiene un grupo o comité propio, se puede añadir su contacto.
-- Confirmar que el 1176 que es el número para denuncia de venta de drogas.  Ya hay otras instrucciones para ese caso.
 
 ## Créditos
 
-Documento producido con Claude (Anthropic) mediante Claude Code, con el modelo Claude Opus 5.5 (`claude-opus-5-5`), a solicitud de Carlos A. Lang-Sanou.
+Documento producido con Claude (Anthropic) mediante Claude Code, con el modelo Claude Opus 5.5 (`claude-opus-5-5`).

@@ -70,6 +70,7 @@ Guía rápida para vecinos del cantón de Curridabat (San José, Costa Rica). Da
   víctimas a esas oficinas. La página del OIJ que lo trataba directamente ya no existe.       
 - Fuentes de prensa: el número de WhatsApp del OIJ, los pasos ante un choque sin heridos (Ley 9078 reformada) y los datos de SENASA salen de medios nacionales, no de páginas institucionales.                                                     
 - Comités de seguridad comunitaria: los menciono de forma genérica porque no encontré datos de los de Curridabat. Si el barrio tiene un grupo o comité propio, se puede añadir su contacto.
+
 ## Créditos
 
 Documento producido con Claude (Anthropic) mediante Claude Code, con el modelo Claude Opus 5.5 (`claude-opus-5-5`), a solicitud de Carlos A. Lang-Sanou.

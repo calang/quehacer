@@ -17,4 +17,4 @@ La guía con los pasos a seguir en cada situación está en [docs/que-hacer.md](
 
 ## Créditos
 
-Documento producido con Claude (Anthropic) mediante Claude Code, con el modelo Claude Opus 5.5 (`claude-opus-5-5`), a solicitud de Carlos A. Lang-Sanou.
+Documento co-producido con Claude (Anthropic) mediante Claude Code, con el modelo Claude Opus 5.5 (`claude-opus-5-5`).

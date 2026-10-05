@@ -81,4 +81,4 @@ Guía rápida para vecinos del cantón de Curridabat (San José, Costa Rica). Da
 
 ## Créditos
 
-Documento producido con Claude (Anthropic) mediante Claude Code, con el modelo Claude Opus 5.5 (`claude-opus-5-5`).
+Documento co-producido con Claude (Anthropic) mediante Claude Code, con el modelo Claude Opus 5.5 (`claude-opus-5-5`).

@@ -1,0 +1,72 @@
+# Qué hacer: situaciones a reportar en Curridabat
+
+Guía rápida para vecinos del cantón de Curridabat (San José, Costa Rica). Datos verificados el 2026-10-04; confirme los números periódicamente.
+
+**Al llamar al 9-1-1** (gratuito, 24/7; también por la app *Emergencias 9-1-1 CR*): mantenga la calma, dé la dirección exacta con puntos de referencia, describa qué ocurre, cuántas personas están afectadas y si hay niños, adultos mayores o personas con discapacidad. No cuelgue hasta que se lo indiquen. El uso indebido del 9-1-1 está sancionado.
+
+**Regla general:** no confronte ni persiga a nadie. Su seguridad es lo primero. Una llamada al 9-1-1 o a la Fuerza Pública **no reemplaza la denuncia formal**: la denuncia se presenta ante el OIJ o la Fiscalía.
+
+| Situación | Pasos a seguir |
+|---|---|
+| **Actividades sospechosas** | |
+| Persona desconocida merodeando, observando casas o vehículos, probando puertas o portones | 1. No la confronte. Obsérvela desde un lugar seguro.<br>2. Llame al **9-1-1** o a la **Policía Municipal de Curridabat (2272-0724)**.<br>3. Describa sexo, edad aproximada, ropa, rasgos y hacia dónde se dirige.<br>4. Avise al grupo o comité de seguridad comunitaria del barrio. |
+| Vehículo desconocido estacionado mucho tiempo o que pasa repetidamente | 1. Anote placa, marca, modelo, color y número de ocupantes, sin acercarse.<br>2. Repórtelo al **9-1-1** o a la Policía Municipal (2272-0724).<br>3. Si sospecha que es robado o que se usa para delinquir, dé la información también a la línea confidencial del **OIJ: 800-8000-645** (WhatsApp 8800-0645). |
+| Robo o intento de ingreso **en curso** (vivienda, local o vehículo) | 1. Póngase a salvo. No intervenga.<br>2. Llame de inmediato al **9-1-1**.<br>3. Si puede hacerlo sin riesgo, observe rasgos, vehículo y ruta de huida.<br>4. Después, presente la denuncia formal ante el OIJ. |
+| Encuentra su vivienda o vehículo robado (el hecho ya ocurrió) | 1. No toque ni mueva nada hasta que llegue el OIJ, para preservar huellas y evidencia.<br>2. Llame al **9-1-1** para que envíen a la policía.<br>3. Presente la denuncia en la delegación del **OIJ** más cercana con su cédula, o en línea con firma digital (*pjenlineacr.poder-judicial.go.cr/AppDenuncia*).<br>4. Haga una lista de lo robado con números de serie, fotos o facturas. |
+| Venta o consumo de drogas en la vía pública o en una vivienda (búnker) | 1. No intervenga ni lo comente públicamente.<br>2. Si ocurre en ese momento, llame al **9-1-1**.<br>3. Para actividad recurrente, informe de forma anónima al **OIJ: 800-8000-645**, WhatsApp 8800-0645 o cicoOIJ@poder-judicial.go.cr. Dé días, horarios, personas y vehículos. |
+| Persona armada, amenazas o disparos | 1. Resguárdese lejos de puertas y ventanas.<br>2. Llame al **9-1-1** cuando esté a salvo.<br>3. No salga a ver qué pasó hasta que llegue la policía. |
+| **Comportamientos inusuales de vecinos o visitantes** | |
+| Gritos, golpes o señales de violencia doméstica o contra una mujer | 1. Llame al **9-1-1** (atención 24/7 con enlace al INAMU).<br>2. Dé la dirección exacta y lo que escucha u observa. No intervenga físicamente.<br>3. Para orientación posterior: app **Ela** del INAMU (24/7) o WhatsApp INAMU **8321-8678**. |
+| Niño, niña o adolescente en riesgo, abandonado o maltratado | 1. Si hay peligro inmediato, llame al **9-1-1** (enlace con el PANI).<br>2. Si no es urgente, llame a la **Línea 1147 del PANI** (gratuita, confidencial, L-D de 7 a.m. a 10 p.m.) o escriba al WhatsApp 8989-1147.<br>3. También puede presentar la denuncia en línea en *pani.go.cr*. |
+| Persona adulta mayor abandonada, maltratada o explotada | 1. Si hay peligro inmediato, llame al **9-1-1**.<br>2. Para orientación, llame a la **Línea Dorada del CONAPAM: 1165** (24/7).<br>3. Para denunciar un delito, llame al **OIJ: 800-8000-645**. |
+| Escándalo o ruido excesivo, sobre todo de noche | 1. Si está ocurriendo y altera el orden público, llame al **9-1-1** o a la Policía Municipal (2272-0724).<br>2. Si es recurrente (local comercial, fiestas frecuentes, maquinaria), presente una denuncia sanitaria ante el **Ministerio de Salud**: Área Rectora de su zona, tel./WhatsApp **4003-5000** (L-V de 8 a.m. a 4 p.m.) o denuncias.minsa@misalud.go.cr.<br>3. Indique las fechas y horas aproximadas y aporte grabaciones si las tiene. |
+| Persona desorientada, perdida o en aparente crisis en la vía pública | 1. Si hay riesgo para su vida o la de terceros, llame al **9-1-1**.<br>2. Manténgase a una distancia prudente y dé su descripción y ubicación. |
+| **Vandalismo y daños a la propiedad** | |
+| Vandalismo **en curso** (grafiti, daños a vehículos, casas o mobiliario público) | 1. No confronte a los responsables.<br>2. Llame al **9-1-1** o a la Policía Municipal (2272-0724).<br>3. Si puede hacerlo sin riesgo, tome fotos o video y anote descripciones. |
+| Daños ya ocurridos a propiedad privada (vehículo, portón, tapia) | 1. Fotografíe los daños antes de repararlos.<br>2. Reúna videos de cámaras propias o de vecinos.<br>3. Presente la denuncia ante el **OIJ** (en persona o en línea).<br>4. Si tiene póliza, avise a su aseguradora con el número de denuncia. |
+| Daños a bienes públicos (parques, aceras, señales, alcantarillas) | 1. Repórtelo a la **Municipalidad de Curridabat (2216-5200**, L-V de 7:30 a.m. a 4:30 p.m.).<br>2. Si deja un peligro inmediato (por ejemplo, una alcantarilla sin tapa), señalice el lugar si puede y llame al **9-1-1**. |
+| Robo o daño de cables eléctricos, postes o alumbrado público | 1. No toque cables caídos.<br>2. Si el robo está ocurriendo, llame al **9-1-1**.<br>3. Reporte la avería a la **CNFL: 1026** (24/7), WhatsApp 8319-5273 o la app de la CNFL. |
+| Robo de medidores o tapas, o daño en la red de agua o alcantarillado | 1. Si el robo está ocurriendo, llame al **9-1-1**.<br>2. Reporte la avería al **AyA: 800-REPORTE (800-737-6783)**, 24/7, o por la app *Servicios AyA*.<br>3. Presente la denuncia ante el OIJ si le afecta directamente. |
+| **Emergencias médicas y accidentes** | |
+| Persona inconsciente, que no respira, con dolor en el pecho, convulsiones o sangrado abundante | 1. Llame al **9-1-1** de inmediato.<br>2. Siga las instrucciones del operador (por ejemplo, RCP o presión sobre la herida).<br>3. No mueva a la persona salvo que corra un peligro inminente.<br>4. Envíe a alguien a guiar a la ambulancia. |
+| Accidente de tránsito **con heridos** | 1. Señalice la zona y protéjase del tránsito.<br>2. Llame al **9-1-1**.<br>3. No mueva a las personas heridas ni los vehículos.<br>4. Espere a la Cruz Roja y a la Policía de Tránsito. |
+| Choque **sin heridos** | 1. Si ambas partes están de acuerdo, tomen fotos o video de la escena y de las placas.<br>2. Muevan los vehículos dentro de los 15 minutos siguientes a un lugar donde no obstruyan el tránsito.<br>3. Avise a su aseguradora (**INS: 800-800-8000**) y siga sus instrucciones.<br>4. Si no hay acuerdo, llame al **9-1-1** y espere a Tránsito. |
+| Incendio en una vivienda, un lote o la vía pública | 1. Evacúe y aleje a las personas.<br>2. Llame al **9-1-1** (Bomberos) desde un lugar seguro.<br>3. No regrese por pertenencias.<br>4. Las quemas de basura o de charral son prohibidas: repórtelas también al 9-1-1. |
+| Olor o fuga de gas (LPG) | 1. Cierre la llave del regulador si puede hacerlo sin riesgo y abra puertas y ventanas.<br>2. No encienda ni apague luces ni aparatos eléctricos.<br>3. Evacúe a todos y llame al **9-1-1** desde fuera de la vivienda. |
+| Cable eléctrico caído o poste dañado | 1. Manténgase a distancia y alerte a los demás. No lo toque.<br>2. Si hay chispas, fuego o riesgo para personas, llame al **9-1-1**.<br>3. Repórtelo a la **CNFL: 1026** o por WhatsApp 8319-5273. |
+| **Clima y desastres naturales** | |
+| Inundación o desbordamiento de una quebrada o un río | 1. Aléjese de cauces, puentes y calles inundadas. No las cruce a pie ni en vehículo.<br>2. Si hay personas atrapadas o en riesgo, llame al **9-1-1** y dé la cantidad de personas y si hay personas vulnerables.<br>3. Desconecte la electricidad si el agua entra en la vivienda.<br>4. Siga las alertas oficiales de la **CNE** y las indicaciones del Comité Municipal de Emergencias. |
+| Deslizamiento, grietas en el terreno o paredes, o hundimientos | 1. Evacúe de inmediato el sitio y las viviendas cercanas.<br>2. Llame al **9-1-1**.<br>3. Repórtelo a la Municipalidad (2216-5200) para que lo valore.<br>4. No regrese hasta que las autoridades lo autoricen. |
+| Árbol caído o a punto de caer sobre la vía, una vivienda o el tendido eléctrico | 1. Aléjese y señalice el lugar si puede hacerlo sin riesgo.<br>2. Si bloquea la vía, cayó sobre una vivienda o hay personas afectadas, llame al **9-1-1**.<br>3. Si toca cables, repórtelo también a la **CNFL (1026)**.<br>4. Si es un riesgo no urgente en un espacio público, repórtelo a la Municipalidad (2216-5200). |
+| Sismo | 1. **Agáchese, cúbrase y sujétese** lejos de ventanas y objetos que puedan caer.<br>2. No use ascensores. Evacúe cuando termine el movimiento si la estructura está dañada.<br>3. Revise si hay fugas de gas, cables dañados o heridos. Si los hay, llame al **9-1-1**.<br>4. Use el teléfono solo para emergencias y siga la información oficial de la **CNE**. Tenga un kit de emergencia listo. |
+| **Otras situaciones** | |
+| Maltrato o abandono de un animal | 1. Documente con fotos, video y testigos.<br>2. Presente la denuncia ante el **SENASA** con el formulario en línea en *senasa.go.cr*. Para orientación: 2587-1600 o info@senasa.go.cr (L-V de 8 a.m. a 4 p.m.).<br>3. Si hay crueldad grave en curso, llame al **9-1-1** o al **OIJ (800-8000-645)**. |
+| Botadero clandestino, basura en la vía pública o lote sucio que genera plagas | 1. Fotografíe el problema y, si es posible, a quien bota la basura y la placa del vehículo.<br>2. Repórtelo a la **Municipalidad de Curridabat (2216-5200)**.<br>3. Si afecta la salud pública (plagas, malos olores, aguas residuales), presente una denuncia sanitaria ante el **Ministerio de Salud** (4003-5000 o la app *Denuncia Salud*). |
+
+## Fuentes consultadas (2026-10-04)
+
+- Sistema de Emergencias 9-1-1, Ley 7566: <https://www.seguridadpublica.go.cr/estructura/viceministroCPE-UC/seguridad_privada/documentos/comunicados/2022/ley_7566_creacion_sistema_emergencias_911.pdf>
+- App 9-1-1 CR: <https://www.nacion.com/el-pais/como-descargar-y-usar-la-app-del-911-en-costa-rica/BD5HEZDW3ZBT7B5K45IUYZ7EOU/story/>
+- OIJ, línea confidencial: <https://sitiooij.poder-judicial.go.cr/index.php/ayuda/queremos-estar-en-contacto> · <https://www.teletica.com/sucesos/teme-denunciar-asi-puede-reportar-un-delito-ante-el-oij-de-forma-anonima_412438>
+- Poder Judicial, denuncia por robo de vivienda: <https://servicios.poder-judicial.go.cr/index.php/servicio?service=35>
+- OIJ, cómo hacer una denuncia: <https://sitiooij.poder-judicial.go.cr/index.php/45-preguntas-frecuentes/3108-como-se-hace-una-denuncia-en-el-oij> · Denuncia en línea: <https://pjenlineacr.poder-judicial.go.cr/AppDenuncia>
+- Ministerio de Seguridad Pública, programas preventivos: <https://www.seguridadpublica.go.cr/tramites_servicios/dppp/programas_preventivos.aspx>
+- Municipalidad de Curridabat y Policía Municipal (directorio de terceros, no se encontró en el sitio oficial): <https://www.munis.cr/municipalidad-de-curridabat>
+- Ministerio de Salud, denuncias sanitarias: <https://www.ministeriodesalud.go.cr/index.php/denuncias/denuncias-sanitarias> · Reglamento de ruido 2024: <https://www.ministeriodesalud.go.cr/index.php/prensa/61-noticias-2024/1908-salud-publico-reglamento-para-el-control-del-ruido-e-inicia-capacitaciones-con-los-nuevos-equipos-de-medicion>
+- INAMU, servicios y app Ela: <https://www.inamu.go.cr/en/-/noticias-servicio-9-1-1-inamu-funciona-horario-24-7> · <https://delfino.cr/2025/05/inamu-moderniza-sus-servicios-con-ela-una-aplicacion-movil-de-apoyo-e-informacion-para-mujeres>
+- PANI, Línea 1147: <https://pani.go.cr/linea-gratuita-1147-del-pani-al-servicio-de-los-ninos-ninas-y-adolescentes/>
+- CONAPAM, denuncias: <https://conapam.go.cr/servicios/denuncias/maltrato-violencia-y-abandono/>
+- SENASA, denuncias: <https://crhoy.com/nacionales/asisehace-como-interponer-una-denuncia-ante-senasa/>
+- CNFL, averías: <https://www.cnfl.go.cr/averias/averias-servicio-electrico>
+- AyA, 800-REPORTE: <https://www.facebook.com/AcueductosyAlcantarilladosCR/videos/informate-sin-riesgo-800-reporte-800-7376783/562771591306130/>
+- Bomberos, gas LPG: <https://www.bomberos.go.cr/wp-content/uploads/2013/06/CONSEJOS-GAS.pdf>
+- Choques sin heridos (Ley 9078 reformada): <https://www.larepublica.net/noticia/como-resolver-un-choque-leve-sin-llamar-al-trafico-y-no-hacer-presa>
+- CNE, sismos y kit de emergencia: <https://www.telediario.cr/nacional/temblores-costa-rica-que-debe-kit-emergencia>
+
+## Conviene revisar estos puntos antes de difundir el documento
+- Policía Municipal de Curridabat (2272-0724): el número solo aparece en un directorio de terceros (munis.cr). En el sitio oficial de la Municipalidad no encontré contactos
+  y la página de Fuerza Pública daba error 404. Lo confirmaría llamando a la Municipalidad (2216-5200).
+- La llamada al 9-1-1 no es una denuncia formal: la denuncia se presenta ante el OIJ o la Fiscalía. Lo puse como regla general porque la guía del Poder Judicial envía a las
+  víctimas a esas oficinas. La página del OIJ que lo trataba directamente ya no existe.       
+- Fuentes de prensa: el número de WhatsApp del OIJ, los pasos ante un choque sin heridos (Ley 9078 reformada) y los datos de SENASA salen de medios nacionales, no de páginas institucionales.                                                     
+- Comités de seguridad comunitaria: los menciono de forma genérica porque no encontré datos de los de Curridabat. Si el barrio tiene un grupo o comité propio, se puede añadir su contacto.

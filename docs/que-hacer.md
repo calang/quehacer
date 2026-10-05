@@ -77,7 +77,6 @@ Guía rápida para vecinos del cantón de Curridabat (San José, Costa Rica). Da
 - La llamada al 9-1-1 no es una denuncia formal: la denuncia se presenta ante el OIJ o la Fiscalía. Lo puse como regla general porque la guía del Poder Judicial envía a las
   víctimas a esas oficinas, y la infografía de la Red de Seguridad Distrital también remite las denuncias al Ministerio Público y al OIJ. La página del OIJ que lo trataba directamente ya no existe.
 - Fuentes de prensa: los pasos ante un choque sin heridos (Ley 9078 reformada) y los datos de SENASA salen de medios nacionales, no de páginas institucionales.
-- Comités de seguridad comunitaria: los menciono de forma genérica porque no encontré datos de los de Curridabat. Si el barrio tiene un grupo o comité propio, se puede añadir su contacto.
 
 ## Créditos
 

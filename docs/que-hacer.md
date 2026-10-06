@@ -70,14 +70,14 @@ Guía rápida para vecinos del cantón de Curridabat (San José, Costa Rica). Da
 - Choques sin heridos, Pacto Amistoso (Ley 9078 reformada): <https://www.larepublica.net/noticia/como-resolver-un-choque-leve-sin-llamar-al-trafico-y-no-hacer-presa>
 - CNE, sismos y kit de emergencia: <https://www.telediario.cr/nacional/temblores-costa-rica-que-debe-kit-emergencia>
 
-## Conviene revisar estos puntos antes de difundir el documento
-- Falta un contacto policial local no urgente: Curridabat no tiene Policía Municipal de carácter general (solo Policía de Tránsito Municipal), así que los casos de persona o vehículo sospechoso, ruido y vandalismo en curso
+## Notas
+1. Falta un contacto policial local no urgente: Curridabat no tiene Policía Municipal de carácter general (solo Policía de Tránsito Municipal), así que los casos de persona o vehículo sospechoso, ruido y vandalismo en curso
   quedan solo con el 9-1-1. Convendría añadir el teléfono de la delegación de Fuerza Pública de Curridabat, que no encontré (su página daba error 404).
-- Policía de Tránsito Municipal: el sitio oficial solo da el correo (transito.municipal@curridabat.go.cr); no aparece en el directorio ni encontré teléfono. Conviene añadirlo si existe.
-- La llamada al 9-1-1 no es una denuncia formal: la denuncia se presenta ante el OIJ o la Fiscalía. Lo puse como regla general porque la guía del Poder Judicial envía a las
+1. Policía de Tránsito Municipal: el sitio oficial solo da el correo (transito.municipal@curridabat.go.cr); no aparece en el directorio ni encontré teléfono. Conviene añadirlo si existe.
+1. La llamada al 9-1-1 no es una denuncia formal: la denuncia se presenta ante el OIJ o la Fiscalía. Lo puse como regla general porque la guía del Poder Judicial envía a las
   víctimas a esas oficinas, y la infografía de la Red de Seguridad Distrital también remite las denuncias al Ministerio Público y al OIJ. La página del OIJ que lo trataba directamente ya no existe.
-- No pude abrir dos fuentes para comprobarlas: la página de la Línea 1147 del PANI bloquea el acceso automatizado, así que el horario «L-D de 7 a.m. a 10 p.m.» queda sin confirmar, y la página de Bomberos sobre gas LPG no cargó (el PDF que se citaba antes daba error 404). Los consejos sobre fugas de gas salen del resumen de esa página en el buscador.
-- Fuentes de prensa: los pasos ante un choque sin heridos (Ley 9078 reformada) y los datos de SENASA salen de medios nacionales, no de páginas institucionales.
+1. No pude abrir dos fuentes para comprobarlas: la página de la Línea 1147 del PANI bloquea el acceso automatizado, así que el horario «L-D de 7 a.m. a 10 p.m.» queda sin confirmar, y la página de Bomberos sobre gas LPG no cargó (el PDF que se citaba antes daba error 404). Los consejos sobre fugas de gas salen del resumen de esa página en el buscador.
+1. Fuentes de prensa: los pasos ante un choque sin heridos (Ley 9078 reformada) y los datos de SENASA salen de medios nacionales, no de páginas institucionales.
 
 ## Créditos
 

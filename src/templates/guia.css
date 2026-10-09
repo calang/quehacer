@@ -1,0 +1,109 @@
+:root {
+  --texto: #1d1d1f;
+  --fondo: #ffffff;
+  --suave: #f2f4f7;
+  --borde: #d0d5dd;
+  --acento: #0b5cad;
+  --marca: #ffe58a;
+  --marca-activa: #ff9f1a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --texto: #e6e6e6;
+    --fondo: #16181c;
+    --suave: #23262d;
+    --borde: #3a3f48;
+    --acento: #7db4f0;
+    --marca: #6b5a00;
+    --marca-activa: #b35c00;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--texto);
+  background: var(--fondo);
+}
+
+main {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+h1 { font-size: 1.6rem; line-height: 1.25; }
+h2 { font-size: 1.3rem; margin-top: 2rem; }
+a { color: var(--acento); overflow-wrap: anywhere; }
+li { margin-bottom: 0.4rem; }
+
+.busqueda {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--suave);
+  border-bottom: 1px solid var(--borde);
+  padding: 0.5rem 1rem;
+}
+
+.busqueda form { max-width: 60rem; margin: 0 auto; }
+.busqueda label { font-weight: 600; font-size: 0.9rem; }
+.controles { display: flex; gap: 0.4rem; margin-top: 0.25rem; }
+
+.controles input {
+  flex: 1;
+  min-width: 0;
+  font: inherit;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--borde);
+  border-radius: 0.4rem;
+  background: var(--fondo);
+  color: var(--texto);
+}
+
+.controles button {
+  font: inherit;
+  font-size: 0.9rem;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--borde);
+  border-radius: 0.4rem;
+  background: var(--fondo);
+  color: var(--texto);
+}
+
+#contador { display: block; min-height: 1.3em; font-size: 0.85rem; }
+
+mark { background: var(--marca); color: inherit; }
+mark.activa { background: var(--marca-activa); outline: 2px solid var(--marca-activa); }
+
+table { border-collapse: collapse; width: 100%; }
+th, td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.6rem;
+  border-bottom: 1px solid var(--borde);
+}
+
+tr.categoria td {
+  background: var(--suave);
+  font-size: 1.15rem;
+  padding-top: 1rem;
+}
+
+/* Celular: cada fila se apila (situación arriba, pasos abajo). */
+@media (max-width: 640px) {
+  .controles button { padding: 0.4rem; }
+  thead { display: none; }
+  table, tbody, tr, td { display: block; width: 100%; }
+  tr { border-bottom: 1px solid var(--borde); padding: 0.5rem 0; }
+  td { border: none; padding: 0.25rem 0; }
+  td:first-child { font-weight: 600; }
+  tr.categoria { border: none; }
+  tr.categoria td { padding: 0.6rem; margin-top: 1rem; }
+  tr.categoria td:empty { display: none; }
+}

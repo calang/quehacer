@@ -14,9 +14,9 @@ Las fases son intencionalmente pequeñas — cada una es una porción de trabajo
 
 ### Funcionalidades
 
-- [ ] Producir un archivo html a partir de un archivo Markdown.
-- [ ] Proveer al archivo html un estilo visual básico, con encabezados, listas y enlaces.
-- [ ] Proveer al archivo html con un elemento que permita realizar búsquedas de palabras clave dentro del contenido.
+- [x] Producir un archivo html a partir de un archivo Markdown.
+- [x] Proveer al archivo html un estilo visual básico, con encabezados, listas y enlaces.
+- [x] Proveer al archivo html con un elemento que permita realizar búsquedas de palabras clave dentro del contenido.
 
 ---
 

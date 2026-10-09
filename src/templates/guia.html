@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$title</title>
+<style>
+$style
+</style>
+</head>
+<body>
+<header class="busqueda">
+  <form id="buscador" role="search" autocomplete="off">
+    <label for="consulta">Buscar en la guía</label>
+    <div class="controles">
+      <input id="consulta" type="search" placeholder="Ej.: robo, gas">
+      <button type="button" id="anterior" aria-label="Coincidencia anterior">Anterior</button>
+      <button type="button" id="siguiente" aria-label="Coincidencia siguiente">Siguiente</button>
+    </div>
+    <output id="contador" aria-live="polite"></output>
+  </form>
+</header>
+<main id="contenido">
+$body
+</main>
+<script>
+$script
+</script>
+</body>
+</html>

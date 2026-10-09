@@ -62,6 +62,10 @@ rm-env:
 lint:
 	uv run pylint --load-plugins=pylint.extensions.docparams scripts src
 
+# target: html - generate dist/que-hacer.html from docs/que-hacer.md
+html:
+	uv run python -m src.build_html
+
 # target: jupl - start jupyter lab server
 jupl:	ALWAYS
 	uv run jupyter lab &
@@ -78,7 +82,7 @@ jupl:	ALWAYS
 
 # ignore files with any of these names
 # so that the rules with those as target are always executed
-.PHONY: help show-vars init update-env rm-env lint jupl ALWAYS
+.PHONY: help show-vars init update-env rm-env lint html jupl ALWAYS
 
 # always do/refresh ALWAYS target
 ALWAYS:

@@ -4,9 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Qué es este proyecto
 
-Una guía en español para que los vecinos de Curridabat (Costa Rica) sepan qué hacer y a quién avisar ante actividad sospechosa, emergencias, daños y otras situaciones. El entregable principal es `docs/que-hacer.md`. Por ahora no hay código: `src/`, `scripts/` y `tests/` están vacíos.
+Una guía en español para que los vecinos de Curridabat (Costa Rica) sepan qué hacer y a quién avisar ante actividad sospechosa, emergencias, daños y otras situaciones. El entregable principal es `docs/que-hacer.md`. `src/build_html.py` lo convierte (Python-Markdown) en un único HTML autocontenido; la plantilla, el CSS y la búsqueda en JS nativo están en `src/templates/`. Las filas de categoría se detectan porque tienen la primera celda solo en negrita y la segunda vacía.
 
-El objetivo de la próxima etapa está en `specs/roadmap.md` (Fase 1): generar a partir del Markdown un HTML con estilo básico y búsqueda por palabras clave. Las secciones "Misión" y "A quién servimos" de `specs/mission.md` no se cambian sin una discusión y una aprobación explícitas.
+Las fases están en `specs/roadmap.md` y cada una tiene su especificación en `specs/AAAA-MM-DD-<fase>/`. Las secciones "Misión" y "A quién servimos" de `specs/mission.md` no se cambian sin una discusión y una aprobación explícitas.
 
 ## Comandos
 
@@ -14,6 +14,7 @@ El objetivo de la próxima etapa está en `specs/roadmap.md` (Fase 1): generar a
 make init                                        # primera vez: crea .env desde .env_template y ejecuta uv sync (incluye el grupo dev)
 make update-env                                  # uv sync
 make lint                                        # pylint sobre scripts/ y src/ (pylintrc: Google Python Style Guide)
+make html                                        # genera dist/que-hacer.html (autocontenido, con búsqueda) desde docs/que-hacer.md
 uv run pytest                                    # todas las pruebas (testpaths = tests)
 uv run pytest tests/path/test_foo.py::test_name  # una sola prueba
 ```

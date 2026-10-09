@@ -35,6 +35,7 @@ make help                                       # lista los targets del Makefile
 make update-env                                 # uv sync
 make rm-env                                     # borra .venv
 make lint                                       # pylint (pylintrc: Google Python Style Guide)
+make html                                       # genera dist/que-hacer.html desde docs/que-hacer.md
 make jupl                                       # Jupyter Lab
 uv run pytest                                   # todas las pruebas
 uv run pytest tests/path/test_foo.py::test_name # una prueba

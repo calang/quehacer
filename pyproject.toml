@@ -1,5 +1,26 @@
 [project]
 name = "quehacer"
 version = "0.1.0"
+description = "Guía de qué hacer ante actividad sospechosa o emergencias en el barrio (Curridabat, Costa Rica)"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    # Uncomment as needed:
+    # "python-dotenv",
+    # "pyyaml",
+    # "matplotlib",
+    # "numpy",
+    # "pandas",
+    # "requests",
+]
+
+[dependency-groups]
+dev = [
+    "ipympl",
+    "ipywidgets",
+    "jupyterlab",
+    "pylint",
+    "pytest",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

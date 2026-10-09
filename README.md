@@ -13,7 +13,7 @@ Situaciones para las que se suministran instrucciones incluyen:
 - Emergencias médicas o accidentes.
 - Situaciones de emergencia relacionadas con el clima o desastres naturales.
 
-La guía con los pasos a seguir en cada situación está en [docs/que-hacer.md](docs/que-hacer.md).
+La guía básica con los pasos a seguir en cada situación está en [docs/que-hacer.md](docs/que-hacer.md).
 
 ## Requisitos
 
